@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/accept-w.png-5d14172905ef883ae53edc9c9d7c3161.stex"
+path="res://.import/accept-w.png-9549050ed1d9b51db40012d5e0a2a525.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/github-integration/icons/accept-w.png"
-dest_files=[ "res://.import/accept-w.png-5d14172905ef883ae53edc9c9d7c3161.stex" ]
+source_file="res://godot/addons/github-integration/icons/accept-w.png"
+dest_files=[ "res://.import/accept-w.png-9549050ed1d9b51db40012d5e0a2a525.stex" ]
 
 [params]
 

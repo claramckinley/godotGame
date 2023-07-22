@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/github-logo.png-ecbc9f6d20796b46b889486439e860bc.stex"
+path="res://.import/github-logo.png-2abbed980b6d066fe8f193d30f66912e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/github-integration/resources/github-logo.png"
-dest_files=[ "res://.import/github-logo.png-ecbc9f6d20796b46b889486439e860bc.stex" ]
+source_file="res://godot/addons/github-integration/resources/github-logo.png"
+dest_files=[ "res://.import/github-logo.png-2abbed980b6d066fe8f193d30f66912e.stex" ]
 
 [params]
 

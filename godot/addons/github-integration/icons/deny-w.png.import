@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/deny-w.png-7897b4d59c46a228e49aaedb77364b95.stex"
+path="res://.import/deny-w.png-6cbac09ec88d5b16f4826d10c437d39a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/github-integration/icons/deny-w.png"
-dest_files=[ "res://.import/deny-w.png-7897b4d59c46a228e49aaedb77364b95.stex" ]
+source_file="res://godot/addons/github-integration/icons/deny-w.png"
+dest_files=[ "res://.import/deny-w.png-6cbac09ec88d5b16f4826d10c437d39a.stex" ]
 
 [params]
 

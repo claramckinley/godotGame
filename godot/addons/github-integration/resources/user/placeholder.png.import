@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/placeholder.png-fdd683ee36ca80dff9ce9c6b1ddb20ee.stex"
+path="res://.import/placeholder.png-bec2c5867d96903fa76b523e79c8adff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/github-integration/resources/user/placeholder.png"
-dest_files=[ "res://.import/placeholder.png-fdd683ee36ca80dff9ce9c6b1ddb20ee.stex" ]
+source_file="res://godot/addons/github-integration/resources/user/placeholder.png"
+dest_files=[ "res://.import/placeholder.png-bec2c5867d96903fa76b523e79c8adff.stex" ]
 
 [params]
 
