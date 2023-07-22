@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/radioChecked.png-8a7b8b7596e87fb20baf7b5540faa542.stex"
+path="res://.import/radioChecked.png-dddd8e4da67053e4f5a1b757239602e9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/github-integration/icons/radioChecked.png"
-dest_files=[ "res://.import/radioChecked.png-8a7b8b7596e87fb20baf7b5540faa542.stex" ]
+source_file="res://godot/addons/github-integration/icons/radioChecked.png"
+dest_files=[ "res://.import/radioChecked.png-dddd8e4da67053e4f5a1b757239602e9.stex" ]
 
 [params]
 

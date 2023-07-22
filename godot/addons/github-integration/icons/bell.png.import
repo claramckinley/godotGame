@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bell.png-f23eb8d10b79024fd8e597ba841b0bbc.stex"
+path="res://.import/bell.png-52998d09fbbef4801b0c0c5f2b73b244.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/github-integration/icons/bell.png"
-dest_files=[ "res://.import/bell.png-f23eb8d10b79024fd8e597ba841b0bbc.stex" ]
+source_file="res://godot/addons/github-integration/icons/bell.png"
+dest_files=[ "res://.import/bell.png-52998d09fbbef4801b0c0c5f2b73b244.stex" ]
 
 [params]
 
